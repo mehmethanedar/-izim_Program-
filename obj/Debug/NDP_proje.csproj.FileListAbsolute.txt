@@ -1,0 +1,10 @@
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.csprojResolveAssemblyReference.cache
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.Properties.Resources.resources
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.csproj.GenerateResource.Cache
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.csproj.CoreCompileInputs.cache
+c:\users\mehmet hanedar\source\repos\NDP_proje\bin\Debug\NDP_proje.exe.config
+c:\users\mehmet hanedar\source\repos\NDP_proje\bin\Debug\NDP_proje.exe
+c:\users\mehmet hanedar\source\repos\NDP_proje\bin\Debug\NDP_proje.pdb
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.exe
+c:\users\mehmet hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.pdb
+C:\Users\Mehmet Hanedar\source\repos\NDP_proje\obj\Debug\NDP_proje.Form2.resources
